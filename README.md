@@ -1,6 +1,6 @@
 
 # [Community Watch](https://communitywatch.herokuapp.com/)
-Team Justice League
+Team Justice League, final project for 6.170 (Software Studio) class at MIT.
 
 <p align="center">
   <img src="public/favicon.ico" width=300 />
@@ -9,7 +9,7 @@ Team Justice League
 
 ### Purpose and Functionality
 
-We plan to build an application called Community Watch that allows the citizens of Cambridge to stay up to date on local crimes and engage in community discussion on crimes in neighborhoods as well.
+Community Watch is an app that allows the citizens of Cambridge to stay up to date on local crimes and engage in community discussion on crimes in neighborhoods as well.
 
 #### Key Purposes:
 
